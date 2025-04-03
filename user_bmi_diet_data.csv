@@ -1,0 +1,6 @@
+User ID,Name,Height,Current Weight,Age,Gender,BMI,Optimal Weight,Days to Target,Daily Caloric Intake,Breakfast Calories,Lunch Calories,Dinner Calories,Snacks Calories
+U1011,Vichu,186.0,92.0,19,Male,26.59,78.94,8,2045,511,613,511,409
+U1012,Niranjana,157.0,66.0,16,Female,26.78,56.94,12,1708,427,512,427,341
+U1015,Meena,145.0,48.0,19,Female,22.83,45.1,27,1573,393,471,393,314
+U1014,Neela,168.0,72.0,15,Female,25.51,61.39,-2,1677,419,503,419,335
+U1017,Ara,187.0,68.0,19,Male,19.45,64.1,0,1595,398,478,398,319
